@@ -22,13 +22,4 @@ This tutorial outlines the post-install configuration of the open-source help de
 <p>
 2. From the Users page, verify that the Registration Required field is unchecked.
   
-</p>
-<br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-4. Under the Permissions tab set permissions for the new role.
-</p>
-<br />
